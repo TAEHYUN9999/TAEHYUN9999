@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TAEHYUN9999
-- 👀 I’m interested in Verilog or C language
-- 🌱 I’m currently learning: study for verilog  
+- 👀 I’m interested in Verilog or C language or Python or Pytorch
+- 🌱 I’m currently learning: study for verilog , CNN model
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: contact me e-mail: kth181399@gmail.com 
 - 😄 Pronouns: 
